@@ -9,7 +9,7 @@ c = multiplicacion(1,2)
 print(c)
 
 x = np.linspace(0,10)
-grafica = x + 2
+grafica = x + 10
 
 mat.figure()
 mat.plot(x,grafica)
