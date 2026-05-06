@@ -7,7 +7,10 @@ b = resta(1,2)
 print(b)
 c = multiplicacion(1,2)
 print(c)
-
+#HACEMOS UN CAMBIO TEMPORAL
+print(type(a))
+print(type(b))
+print(type(c))
 x = np.linspace(0,10)
 grafica = x + 2
 
