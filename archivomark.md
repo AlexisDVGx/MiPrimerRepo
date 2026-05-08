@@ -10,13 +10,13 @@ Esto lo dice por lo siguiente:
 * **KUI** con una linea realiza una tabla, LaTeX no.
 * Según el creador, *LaTeX* es para tipografos de los 80 ***inserte emoji llorando***
 
-##Enlace a **KUI**
+## Enlace a **KUI**
 (github.com/yova03/kui-lang)
 
-###Imagen representativa del lenguaje **KUI**
+### Imagen representativa del lenguaje **KUI**
 !|Logo de KUI|(KUI.png)
 
-####Autor
+#### Autor
 |Nombre|Nacionalidad|
 |------|------------|
 |Daril Yovani Cabrera|Perú|
