@@ -16,7 +16,7 @@ Esto lo dice por lo siguiente:
 ### Imagen representativa del lenguaje **KUI**
 ![Logo de KUI](KUI.png)
 
-####Autor
+#### Autor
 |Nombre|Nacionalidad|
 |------|------------|
 |Daril Yovani Cabrera|Perú|
