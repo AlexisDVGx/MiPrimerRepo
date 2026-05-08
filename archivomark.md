@@ -11,12 +11,12 @@ Esto lo dice por lo siguiente:
 * Según el creador, *LaTeX* es para tipografos de los 80 ***inserte emoji llorando***
 
 ## Enlace a **KUI**
-(github.com/yova03/kui-lang)
+[Enlace a KUI](github.com/yova03/kui-lang)
 
 ### Imagen representativa del lenguaje **KUI**
-!|Logo de KUI|(KUI.png)
+![Logo de KUI](KUI.png)
 
-#### Autor
+####Autor
 |Nombre|Nacionalidad|
 |------|------------|
 |Daril Yovani Cabrera|Perú|
