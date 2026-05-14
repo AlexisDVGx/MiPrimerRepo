@@ -21,3 +21,6 @@ mat.grid()
 mat.show()
 
 mat.savefig("Grafica.eps")
+
+
+    
