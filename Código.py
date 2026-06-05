@@ -1,0 +1,5 @@
+print("hola que hace")
+print("Estos archivos nos hacen nada, solo imprimen cosas en la consola")
+print("Pero es divertido escribir código")
+print("¿No crees?")
+print("Bueno, eso es todo por ahora. ¡Hasta luego!")
